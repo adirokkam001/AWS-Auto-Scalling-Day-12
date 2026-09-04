@@ -1,4 +1,4 @@
-# 9. AWS Auto Scaling 
+# AWS Auto Scaling 
 
 ## Introduction
 
